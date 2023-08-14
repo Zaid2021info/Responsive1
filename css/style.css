@@ -1,0 +1,269 @@
+body{
+    overflow-x: hidden;
+  }
+  .navbarclass {
+    background-image: url(../image/DUBAI.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    /* object-fit: cover; */
+    border-bottom: 3px solid black;
+    background-color:lightgray;
+    
+  
+
+  }
+
+
+  .content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 115px;
+  }
+
+  .container-1 {
+    heig : 100vh;
+    /* border-top: 2px solid black; */
+
+  }
+
+  .containerh2 {
+    text-align: center;
+    margin-top: 35px;
+  }
+  .card1 img{
+    height: 40vh;
+   
+  }
+  .card1 img{
+    border: 3px solid black;
+
+  }
+  
+  .card2 img{
+    height: 40vh;
+   border: 3px solid black;      
+  }
+  .contain2{
+    margin-top: 30px;
+    height: 80vh;
+
+  }
+  .container-2{
+    background-image: url(../image/the-sea-gdcc81b773_1280.jpg);
+    background-repeat: no-repeat;
+    object-fit: cover;
+    height: 100vh;
+    width: 100vw;
+    border-top: 3px solid black;
+   
+    overflow-x: hidden;
+  }
+  .card21{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 115px;
+  }
+  .container3{
+    height: 100vh;
+    overflow-x: hidden;
+    margin-top: px;
+    background-color: antiquewhite;
+    border-top: 3px solid black;
+  }
+  .img4{
+    /* margin-left: 10px; */
+    /* margin-top: 60px; */
+
+  }
+  .lh1{
+    text-align: center;
+  }
+  .ldiv{
+    margin-top: 180px;
+    
+  }
+  .lp1{
+    text-align: center;
+    font-size: 10px;
+    margin-left: 40px;
+  }
+  .ldiv .brc{
+    margin-right: 10px;
+  }
+  .container4{
+    box-sizing: border-box;
+    height: 15vh;
+    background-color: lightblue;
+    /* text-align: center; */
+   display: flex;  
+    justify-content: center;
+    align-items: center; 
+    border-top: 2px solid black;
+    border-bottom: 2px solid rgb(5, 5, 5);
+    font-weight: bold;
+    font-size: 20px;
+    
+    
+  }
+  .img11 img{
+    height: 30vh;
+    object-fit: cover;
+  }
+  .img11{
+    border: 3px solid black;
+  }
+  .img22 img{
+    height: 30vh;
+    object-fit: cover;
+  }
+  .img22{
+    border: 3px solid black;
+  }
+  .img33 img{
+    height: 30vh;
+    object-fit: cover;
+  }
+  .img33{
+    border: 3px solid black;
+  }
+  .img44 img{
+    height: 30vh;
+    object-fit: cover;
+  }
+  .img44{
+    border: 3px solid black;
+  }
+  .btn11{
+    border: 2px solid black;
+    border-radius: 20px;
+  }
+  .btn11:hover{
+    background-color: rgb(5, 5, 5);
+    color: rgb(253, 251, 251);
+    border: 2px solid whitesmoke;
+    transition: 0.3s ease;
+  }
+  .events2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 50px;
+  }
+  .line{
+    height: 3px;
+    width: 300px;
+    margin: auto;
+    background-color:rgb(1, 1, 1);
+  }
+  .btn313{
+    border: 2px solid black;
+    font-weight: bold;
+    font-style: italic;
+    border-radius: 10px;
+    width: 200px;
+  }
+
+  .btn313:hover{
+    background-color: lightpink;
+    transition: 0.3s ease-in-out;
+  }
+  .btnup1{
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: aqua;
+    color: black;
+    font-weight: bold;
+    height: 45px;
+    /* text-align: center; */
+    
+  }
+  .btnup2{
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: aqua;
+    color: black;
+    font-weight: bold;
+    height: 45px;
+    /* text-align: center; */
+    
+  }
+  .btnup1:hover{
+    background-color: white;
+  }
+  .btnup2:hover{
+    background-color: white;
+  }
+  .linecon{
+    height: 3px;
+    width: 100px;
+    background-color: red;
+    margin: auto;
+  }
+  .btnn1{
+    border: 2px solid black;
+    color: darkblue;
+    background-color: antiquewhite;
+    font-weight: bold;
+    transition: 0.3s ease;
+    border-radius: 10px;
+  }
+  .btnn1:hover{
+    background-color: darkblue;
+    color: whitesmoke;
+    font-weight: bold;
+  }
+  .nav2 {
+    color: red;
+  }
+  .adve{
+  color: red;
+  }
+  .btn1{
+    border: 2px solid black;
+    height: 50px;
+    width: 190px;
+    font-size: 30px;
+    margin-top: 20px;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgoldenrodyellow;
+    font-weight: bold;
+    transition: 0.3s ease;
+  }
+  
+  .btn1:hover{
+    background-color: white;
+  }
+  .fh1{
+    color: rgb(226, 43, 211);
+  }
+  .linead{
+    height: 4px;
+    background-color: red;
+    width: 100px;
+    margin: auto;
+  }
+  .lineex{
+    height: 4px;
+    background-color: rgb(4, 4, 4);
+    width: 150px;
+    margin: auto;
+  }
+  .h4exp{
+    color:rgb(69, 195, 23) ;
+    font-size: 50px;
+  }
+  .hhhhh{
+    font-size: 40px;
+    color: rgb(54, 3, 255);
+  }
